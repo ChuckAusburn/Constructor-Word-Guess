@@ -1,0 +1,24 @@
+{
+  "name": "Constructor-Word-Guess",
+  "version": "1.0.0",
+  "description": "Constructor Word Guess game for last homework assignment!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChuckAusburn/Constructor-Word-Guess.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ChuckAusburn/Constructor-Word-Guess/issues"
+  },
+  "homepage": "https://github.com/ChuckAusburn/Constructor-Word-Guess#readme",
+  "dependencies": {
+    "inquirer": "^6.2.0",
+    "prompt": "^1.0.0"
+  }
+}
